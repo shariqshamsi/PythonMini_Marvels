@@ -1,0 +1,2 @@
+# PythonMini_Marvels
+ PythonMini_Marvels is a dynamic repository housing a collection of small yet powerful Python projects designed to demonstrate and enhance coding skills. This curated assortment includes projects such as email validation, mobile tracking, QR code generation, and more. As a dedicated space for skill showcasing, PythonMini_Marvels serves as a playground for honing programming proficiency through hands-on exploration of diverse Python functionalities.
